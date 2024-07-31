@@ -9,4 +9,14 @@
     <username>abdul</username>
     <password>123</password>
   </user>
+  <user>
+    <name>abdu</name>
+    <username>abdu</username>
+    <password>123</password>
+  </user>
+  <user>
+    <name>men</name>
+    <username>men</username>
+    <password>123</password>
+  </user>
 </users>

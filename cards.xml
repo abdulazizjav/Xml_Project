@@ -1,0 +1,23 @@
+<cards>
+  <card>
+    <cardName>uzcard</cardName>
+    <cardNumber>8600</cardNumber>
+    <cardExpiryDate>12</cardExpiryDate>
+    <cardPassword>1234</cardPassword>
+    <userId>aziz</userId>
+  </card>
+  <card>
+    <cardName>humo</cardName>
+    <cardNumber>9860</cardNumber>
+    <cardExpiryDate>12</cardExpiryDate>
+    <cardPassword>123</cardPassword>
+    <userId>abdu</userId>
+  </card>
+  <card>
+    <cardName>visa </cardName>
+    <cardNumber>123</cardNumber>
+    <cardExpiryDate>12</cardExpiryDate>
+    <cardPassword>123</cardPassword>
+    <userId>men</userId>
+  </card>
+</cards>
